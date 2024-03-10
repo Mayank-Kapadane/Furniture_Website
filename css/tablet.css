@@ -1,0 +1,161 @@
+@media (max-width : 1024px) {
+    .burger {
+        display: block;
+    }
+
+    .nav-items {
+        display: none;
+    }
+
+    .search-icon {
+        right: 17vw;
+    }
+
+    .card-icon {
+        display: block;
+        position: relative;
+        right: 15vw;
+        bottom: 2px
+    }
+
+    .burger {
+        right: 9vw;
+        top: 5vw;
+    }
+
+    .container {
+        width: 851px;
+    }
+
+    .discount-text {
+        width: 500px;
+        height: 70%
+    }
+
+    .p1 {
+        font-size: 2rem;
+        line-height: 1;
+    }
+
+    .p2 {
+        font-size: 3rem;
+        margin-bottom: 10px;
+    }
+
+    .p3 {
+        font-size: 1rem;
+        /* line-height: 1.3; */
+        /* margin-bottom: 15px; */
+    }
+
+    .logo2 {
+        height: 8rem;
+        width: 9rem;
+    }
+
+    .logo1 {
+        margin-left: 8px;
+    }
+
+    .heading {
+        width: 147vw;
+    }
+
+    .popular-conatiner {
+        flex-direction: column;
+        gap: 2vw;
+        width: 100vw;
+        ;
+
+    }
+
+    .item {
+        width: 80%;
+        height: 500px;
+        margin: 5px auto;
+        justify-content: space-evenly;
+    }
+
+    .manufacture {
+        width: 100vw;
+        flex-direction: column;
+        /* border : 2px solid blue; */
+        height: 100vh;
+
+    }
+
+    .manufacture img {
+        width: 95%;
+        height: 400px;
+        margin: auto;
+        border-radius: 20px;
+    }
+
+    .manufacture div {
+        width: 95%;
+        margin: auto;
+    }
+
+    .manufacture div h2 {
+        margin: 20px auto;
+    }
+
+    .manufacture div p {
+        font-size: 20px;
+        font-weight: 500;
+    }
+
+
+
+
+    .btn2 {
+        top: 0px;
+    }
+
+    .pp2 {
+        line-height: 1.8;
+    }
+
+    .pp1 {
+        margin-bottom: 20px;
+    }
+
+
+    .like-conatiner {
+        width: 100vw;
+        margin: auto;
+        flex-direction: column;
+        gap: 1px;
+    }
+
+    .item2 a {
+        font-size: 30px;
+    }
+
+    .item2 a:hover {
+        font-size: 30px;
+    }
+
+    .item2 p {
+        line-height: 2;
+    }
+
+    .item2 {
+        flex-direction: column;
+        gap: 2vw;
+    }
+
+    .heading-container {
+        width: 100vw;
+        height: 30vh;
+    }
+
+    .heading-container {
+        margin-top: 200px;
+        margin-bottom: 50px;
+    }
+
+    .btn2 {
+        top: -5px;
+    }
+}
